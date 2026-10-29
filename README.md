@@ -13,7 +13,7 @@ The interpreter is a single Python file with no dependencies.
 You need Python 3. Then:
 
 ```
-python cpercent.py examples/demo.cpc
+python cpercent.py demo.cpc
 ```
 
 C% programs can have any file extension. The examples use `.cpc`.
@@ -187,7 +187,7 @@ els:
     ptx << "You got it! :)"
 ```
 
-More programs are in [`examples/`](examples/): `demo.cpc` tries every feature and `menu.cpc` is a list manager.
+`allfeaturestest.cpc` tries every feature and `list_crud.cpc` is a list manager.
 
 ## Keyword cheat sheet
 
